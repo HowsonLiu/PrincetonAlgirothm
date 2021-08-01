@@ -10,6 +10,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/weak 4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/hello word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/weak 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/weak 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/weak 3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/weak 5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/testcase" type="java-test-resource" />
     </content>
